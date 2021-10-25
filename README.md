@@ -20,10 +20,14 @@
   <img height="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/2560px-Flag_of_Germany.svg.png" alt="German"/>
   <img height="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/2560px-Flag_of_the_United_Kingdom.svg.png" alt="English"/>
 </p>
+<br/>
 
+___
 <p>
-  ⚡ Fun fact: My first project to be forked by an other developer was the <a href="https://github.com/HaberkornJonas/Perforce-Server-On-Docker-For-Unreal">Perforce Docker image for Unreal engine</a> in 2021. It has been forked by <a href="https://github.com/denfrost">@denfrost</a>, an <strong>Unreal developer</strong> at <a href="https://github.com/EpicGames">Epic Games</a>. 
+  ⚡ Fun fact: My first project to be forked by an other developer was the <a href="https://github.com/HaberkornJonas/Perforce-Server-On-Docker-For-Unreal">Perforce Docker image for Unreal engine</a> in 2021. It has been forked by <a href="https://github.com/denfrost">@denfrost</a>, an <strong>Unreal developer</strong> at <a href="https://github.com/EpicGames">Epic Games</a> 🥳 
 </p>
+
+___
 <br/>
 
 <h2 align="center">Some of my projects 💻</h2>
