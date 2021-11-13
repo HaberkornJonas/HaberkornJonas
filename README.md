@@ -10,7 +10,7 @@
 <br/>
 
 <p>
-  Full Stack developer with 3 years of practical experience with Angular/HTML/CSS, JavaScript/TypeScript, C#, Ionic, Crodova, SQL and Azure Cloud at <a href="https://actemium.ch">Actemium Schweiz AG</a>. 
+  Full Stack developer with 3 years of practical experience with Angular/HTML/CSS, JavaScript/TypeScript, C#, Ionic, Cordova, SQL and Azure Cloud at <a href="https://actemium.ch">Actemium Schweiz AG</a>. 
   Open minded and motivated, I'm very curious and continuously try new technologies through active learning.
 </p>
 
